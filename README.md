@@ -887,10 +887,7 @@ and voila, just like that we are done setting up user profile with Google. We ca
 
 # Done?
 
-Congratulations: you made to the end of today's workshop. You will notice that the application is still incomplete as we're evolving it. More building to follow!!!
 
-![Badge](data/img/build-an-ecommerce-app.png)
 
-**... and see you at our next workshop!**
 
-> Sincerely yours, The DataStax Developers
+> Sincerely yours, Amar Tirumalasetti
