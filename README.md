@@ -5,22 +5,10 @@
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Discord](https://img.shields.io/discord/685554030159593522)](https://discord.com/widget?id=685554030159593522&theme=dark)
 
-<img src="data/img/splash.png?raw=true" align="right" width="400px"/>
 
-## Materials for the Session
 
-It doesn't matter if you join our workshop live or you prefer to do at your own pace, we have you covered. In this repository, you'll find everything you need for this workshop:
-
-- [Slide deck - week 1](./slides_wk1.pdf)
-- [Slide deck - week 2](./slides_wk2.pdf)
-- [Slide deck - week 3](./slides_wk3.pdf)
-- [Slide deck - week 4](./slides_wk4.pdf)
-- [Questions and Answers](https://community.datastax.com/)
-- [Worskhop code] (https://github.com/datastaxdevs/workshop-ecommerce-app)
-
-If you cannot attend this workshop live, recordings of this workshop and many more is available on [Youtube](https://youtube.com/datastaxdevs).
-
-## Homework
+##
+## 
 
 <img src="data/img/build-an-ecommerce-app.png" width="200" align=right />
 
@@ -31,15 +19,7 @@ Complete the homework to earn the badge for this workshop (**awarded only at the
 
 ## 📋 Table of contents
 
-1. [Introduction](#1-introduction)
-2. [Create your Database](#2-create-astra-db-instance)
-3. [Create your schema](#3-create-your-schema)
-4. [Populate the dataset](#4-populate-the-data)
-5. [Create a token](#5-create-your-token)
-6. [Setup your application](#6-setup-your-application)
-7. [Run Unit Tests](#7-run-unit-tests)
-8. [Enable Social Login](#8-enable-social-login)
-9. [Start the Application](#9-start-the-application)
+
 
 ## 1. Introduction
 
