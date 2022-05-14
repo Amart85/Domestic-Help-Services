@@ -860,26 +860,26 @@ This is the docs for the open APIs that enables the frontend or any other progra
 
 The complete app is running in the browser as shown below.
 
-![image](data/img/splash.png?raw=true)
+![image]()
 
 ✅ **9g: Use your social login**
 
 Hit login as shown below
 
-![login](data/img/Oauthlogin0.png?raw=false)
+![login]()
 
 
 You should be presented with the Google SSO Login option. Click on the icon as shown below.
 
-![login](data/img/Oauthlogin1.png?raw=false)
+![login]()
 
 Pick the Google user account and proceed to login as you would with Google.
 
-![login](data/img/Oauthlogin2.png?raw=false)
+![login]()
 
 If all the values are wired properly you should see the following screen with the icon above showing that the authentication worked as below and the `Logout` button now available.
 
-![ouath](data/img/Oauthauthenticated.png?raw=false)
+![ouath]()
 
 and voila, just like that we are done setting up user profile with Google. We can implement Github and other social logins similarly.
 
