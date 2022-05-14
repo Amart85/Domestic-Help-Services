@@ -9,9 +9,7 @@
 
 ##
 ## 
-Currently this project is under development.
-
-## 📋 Table of contents
+Currently this project is under development. Will be Publishing Soon.
 
 
 > Regards, 
