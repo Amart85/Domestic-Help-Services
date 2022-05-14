@@ -885,9 +885,6 @@ and voila, just like that we are done setting up user profile with Google. We ca
 
 [🏠 Back to Table of Contents](#-table-of-contents)
 
-# Done?
 
-
-
-
-> Sincerely yours, Amar Tirumalasetti
+> Sincerely yours, 
+> Amar Tirumalasetti
