@@ -866,20 +866,20 @@ The complete app is running in the browser as shown below.
 
 Hit login as shown below
 
-![login](data/img/Oauthlogin0.png?raw=true)
+![login](data/img/Oauthlogin0.png?raw=false)
 
 
 You should be presented with the Google SSO Login option. Click on the icon as shown below.
 
-![login](data/img/Oauthlogin1.png?raw=true)
+![login](data/img/Oauthlogin1.png?raw=false)
 
 Pick the Google user account and proceed to login as you would with Google.
 
-![login](data/img/Oauthlogin2.png?raw=true)
+![login](data/img/Oauthlogin2.png?raw=false)
 
 If all the values are wired properly you should see the following screen with the icon above showing that the authentication worked as below and the `Logout` button now available.
 
-![ouath](data/img/Oauthauthenticated.png?raw=true)
+![ouath](data/img/Oauthauthenticated.png?raw=false)
 
 and voila, just like that we are done setting up user profile with Google. We can implement Github and other social logins similarly.
 
