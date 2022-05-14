@@ -10,12 +10,6 @@
 ##
 ## 
 
-<img src="data/img/build-an-ecommerce-app.png" width="200" align=right />
-
-Complete the homework to earn the badge for this workshop (**awarded only at the end of the series**).
-
-1. Implement Google login and take SCREENSHOT(s).
-2. Don't worry about submitting it just yet.  We'll have instructions on how to do that at the end of the series!
 
 ## 📋 Table of contents
 
