@@ -14,9 +14,5 @@
 ## 📋 Table of contents
 
 
-
-
-
-
 > Regards, 
 > Amar Tirumalasetti
